@@ -22,6 +22,7 @@ I'm Aakarsh Sharma!
 ## 🌱 Currently Learning
 
 - Next.js
+- Tailwind CSS
 
 
 ## 📫 Contact Me
