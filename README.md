@@ -23,6 +23,7 @@ I'm Aakarsh Sharma!
 
 - Next.js 
 - Tailwind CSS
+- Node.js
 
 
 ## 📫 Contact Me
