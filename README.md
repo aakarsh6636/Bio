@@ -6,7 +6,7 @@ I'm Aakarsh Sharma!
 
 ## 🌟 About Me
 
-👩‍💻 I am a frontend web developer with a keen interest in ReactJS. Currently learning and exploring the world of front-end Web Development.
+👩‍💻 I am a frontend web developer with a keen interest in ReactJS aspiring to become a full-stack web developer. Currently learning and exploring the world of front-end Web Development.
 
 ## 🚀 Skills
 
